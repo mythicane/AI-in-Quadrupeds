@@ -1,8 +1,8 @@
-#The BRAIN of Pomni... Commands the reasoning aspect between the senses. Largely depends on Google's Gemini!
+#The BRAIN of Spot... Commands the reasoning aspect between the senses. Largely depends on Google's Gemini!
 
 from google import genai
 
-GEMINI_KEY = 'AIzaSyAZxdkWQa7VejfEkv2tdFwX-HvWQi5-8mQ'
+GEMINI_KEY = 'INSERT_YOUR_KEY_HERE'
 client = genai.Client(api_key= GEMINI_KEY)
 
 def think(prompt): #text prompt --> LLM --> text response
@@ -30,7 +30,7 @@ def generate_prompt(command):
     return prompt
 
 if __name__ == "__main__":
-    print("My name is Pomni, and I have a brain, surprisingly.")
+    print("My name is Spot, and I have a brain, surprisingly.")
     print("I overheard the following from my owner the other day...")
     command = "My favorite soda is coca-cola, I would love one right now!"
     print(command)

@@ -1,4 +1,4 @@
-#The HEART of Pomni... aka, the Main File that drives everything intelligent!
+#The HEART of Spot... aka, the Main File that drives everything intelligent!
 '''
 1 file: listens in, and truncates an instruction
 2 file: LLM interface that takes the innquiry, compiles it with other shit, gets a response, returns response

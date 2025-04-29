@@ -1,13 +1,17 @@
+In your Command terminal, make sure to create an environment that supports the following Python libraries...
 
+#Current Python Version
+Python 3.12.2
+
+#for the intelligence/decision-making modules...
 pip install gemini
-Python 3.12.2 (current python version)
 
-#for regular text to speech...
+#for Text to Speech
 pip install pyttsx3
 
-#camera stuff
+#For the Camera Stuff
 pip install opencv-python
 
-#For Speech regotnition
+#For Speech Recognition
 pip install SpeechRecognition
 pip install pyaudio

@@ -1,8 +1,8 @@
-#The EARS of Pomni: When activated, listens to commands given by voice from a user, then translates it to strings.
+#The EARS of Spot: When activated, listens to commands given by voice from a user, then translates it to strings.
 import speech_recognition as sr
 
 RECOGNIZER = sr.Recognizer()  #creates a Recognizer instance
-SECONDS = 5 #how long Pomni should listen in for with every call...
+SECONDS = 5 #how long Spot should listen in for with every call...
 VERBOSE = False
 
 def listen(VERBOSE, SECONDS):

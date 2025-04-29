@@ -1,4 +1,4 @@
-#The VOICE of Pomni: Communicates back generated comments to a user using physical audio.
+#The VOICE of Spot: Communicates back generated comments to a user using physical audio.
 import pyttsx3
 
 ENGINE = pyttsx3.init()
@@ -23,7 +23,7 @@ def speak(string):
     ENGINE.runAndWait()
 
 if __name__ == "__main__":
-    print("Pomni is speaking....")
+    print("Spot is speaking....")
     text = '''TFriends, Romans, countrymen, lend me your ears;
             I come to bury Caesar, not to praise him.
             The evil that men do lives after them;
