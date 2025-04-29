@@ -30,7 +30,7 @@ Once all libraries are installed, feel free to launch every "sense" for a demons
 
 Launching heart will turn on Spot's ears: It will be listening, but dormant until you say the keywords "Hey Spot!". Spot will wake up, ready to take in any commands. Feel free to talk to it- Do you want Spot to fetch you a soda? Did you lose something and need help finding it? Spot will take in the world around it, and throw up flags that showcase what it's going to do: Go Forward [x] amount of inches, Turn Right/Left [x] amount of degrees, Sit Down, Lie Down, Stand Up, and Speak it's thoughts out loud back to you. View the command prompt to see these flags go up, and make sure to turn on your volume to hear what Spot has to say.
 
-tricks that I've found helpful when interacting with spot...
+Tricks that I've found helpful when interacting with spot...
 1) Be in a silent or quiet room. I learned Spot cannot hear me well when Im in a busy makerspace, hallway, or coffee shop.
 2) If you want spot to be more vocal, tell it to "talk me through your process!" It will then verbally communicate the flags it threw up (not just print them on the terminal).
 3) If it cannot see or detect something, check your camera or the lighting around your room. You can see the last thing Spot has seen under "short_term_memory.png." 
