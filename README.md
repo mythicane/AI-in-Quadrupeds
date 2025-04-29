@@ -56,6 +56,9 @@ https://spotmicroai.readthedocs.io/en/latest/
 1) The Triangulation is alright, but not perfect - future works include incorporation Ultrasonic Sensors (or even a LIDAR I hope!!) to make more accurate perceptive assumptions.
 2) Of course, the flags are useful, but we need to work on the controls/movement aspect of Spot Micro. Despite Spot not moving right now, it’s only a matter of connecting the flags to hard-coded movement policies for the project to be complete. AKA, the final step of the project (and the most crucial), get it to walk, sit, turn, stand up, etc. on command… then let the AI take the reigns!
 3) Make ears.py more sensitive in louder, more "audibly messy" environments. It should still take in commands in public places. Maybe work on non-verbal ways to command spot?
+4) Figure out power distribution issues... 12 servos draw alot of power, unsurprisingly.
+5) Properly rewire my physical Spot Micro Prototype and make the circuitry more organized. 
+6) Incorporate a Raspberry Pi for autonomous handling. Then test how long the batteries last untethered.
 
 Any bugs, or suggestions, on improving this project will be welcomed.
 
