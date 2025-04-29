@@ -23,7 +23,7 @@ def process_prompt(prompt):
                 second_star = line.index("**", first_star)
                 command = line[first_star:second_star].strip().lower()
 
-                # Get whatever comes after the colon :
+                #A WORK IN PROGRESS!!
                 colon_index = line.index(":", second_star)
                 argument = line[colon_index + 1:].strip()
 

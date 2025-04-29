@@ -35,4 +35,4 @@ def listen(VERBOSE, SECONDS):
 if __name__ == "__main__":
     print("I want to hear what you have to say...")
     VERBOSE = True #Set True for verbal feedback, False for silence!
-    text = listen(VERBOSE)       
+    text = listen(VERBOSE, 10)       
