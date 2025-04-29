@@ -10,6 +10,7 @@ This project is largely inspired by UT Austin's B.U.M.B.L.E (Unifying Reasoning 
 
 This project was created for the Gait and Manipulation (Spring 2025) class, as part of the Masters of Science in Mechatronics & Robotics at New York University. The project was met with various levels of success, and with the encouragement of the Professor, we have decided to upload the project to Open Source so that others can enjoy.
 
+![alt text](<Code Flow Diagram.png>)
 
 # How to get Started
 
