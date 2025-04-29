@@ -1,0 +1,13 @@
+
+pip install gemini
+Python 3.12.2 (current python version)
+
+#for regular text to speech...
+pip install pyttsx3
+
+#camera stuff
+pip install opencv-python
+
+#For Speech regotnition
+pip install SpeechRecognition
+pip install pyaudio
